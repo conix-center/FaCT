@@ -2,13 +2,15 @@
 
 A DSL for Timing-Sensitive Computation
 
+This is for the sake of collecting source code created in CONIX to a single location. Code repository at https://github.com/PLSysSec/ct-wasm
+
+# Publication
+
 ```
 Sunjay Cauligi, Gary Soeller, Brian Johannesmeyer, Fraser Brown, Riad S. Wahby, John Renner, Benjamin Gregoire, Gilles Barthe, Ranjit Jhala, and Deian Stefan.
 A DSL for Timing-Sensitive Computation
 Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, (June 22-26, 2019).
 ```
-
-# Publication
 
 This work is documented by SRC publication [P095923](https://www.src.org/library/publication/P095923/P095923.pdf). 
 
