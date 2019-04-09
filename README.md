@@ -2,7 +2,7 @@
 
 A DSL for Timing-Sensitive Computation
 
-This is for the sake of collecting source code created in CONIX to a single location. Code repository at https://github.com/PLSysSec/ct-wasm
+This is for the sake of collecting source code created in CONIX to a single location. Code repository at https://github.com/PLSysSec/FaCT
 
 # Publication
 
