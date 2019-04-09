@@ -5,8 +5,7 @@ A DSL for Timing-Sensitive Computation
 ```
 Sunjay Cauligi, Gary Soeller, Brian Johannesmeyer, Fraser Brown, Riad S. Wahby, John Renner, Benjamin Gregoire, Gilles Barthe, Ranjit Jhala, and Deian Stefan.
 A DSL for Timing-Sensitive Computation
-Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design
-and Implementation, (June 22-26, 2019).
+Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, (June 22-26, 2019).
 ```
 
 # Publication
